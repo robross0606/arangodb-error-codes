@@ -32,6 +32,6 @@
     "eslint": "^6.8.0",
     "eslint-config-airbnb-improved": "^4.0.14",
     "lodash": "^4.17.15",
-    "mocha": "^7.0.1"
+    "mocha": "^7.1.2"
   }
 }
